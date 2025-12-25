@@ -1,0 +1,2 @@
+# Arabic-Clinical-Named-Entity-Recognition-NER-for-Mental-distress
+Millions of Arabic speakers share emotional struggles online, but most of this content is unstructured and hard to analyze. We created a large annotated dataset to train an AI model that detects signs of mental distress in Arabic text. Today, the model can respond to people’s concerns in real time, making mental health support more accessible.
